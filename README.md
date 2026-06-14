@@ -1,4 +1,4 @@
-# THE WOBBLE CURE
+# THE WOBBLE CURE: CEPI for Bundibugyo Virus Early-Stage Vaccine Development
 ## Quantum-Aware Design Architecture for Pan-Filovirus Escape-Resistant Therapeutics
 ### A Proposal to CEPI for Bundibugyo Virus Early-Stage Vaccine Development
 
